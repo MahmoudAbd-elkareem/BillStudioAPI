@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\BillStudioDomain.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\BillStudioDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\BillStudioDomain.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\BillStudioDomain.AssemblyInfo.cs
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\BillStudioDomain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\bin\Debug\net6.0\BillStudioDomain.deps.json
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\bin\Debug\net6.0\BillStudioDomain.dll
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\bin\Debug\net6.0\BillStudioDomain.pdb
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\BillStudioDomain.dll
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\refint\BillStudioDomain.dll
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\BillStudioDomain.pdb
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\ref\BillStudioDomain.dll
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\bin\Debug\net6.0\BillStudioDomain.runtimeconfig.json
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Domain\obj\Debug\net6.0\BillStudioDomain.genruntimeconfig.cache

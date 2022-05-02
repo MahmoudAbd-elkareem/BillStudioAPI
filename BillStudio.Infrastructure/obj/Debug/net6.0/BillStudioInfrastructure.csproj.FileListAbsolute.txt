@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\BillStudioInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\BillStudioInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\BillStudioInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\BillStudioInfrastructure.AssemblyInfo.cs
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\BillStudioInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\bin\Debug\net6.0\BillStudioInfrastructure.deps.json
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\bin\Debug\net6.0\BillStudioInfrastructure.dll
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\bin\Debug\net6.0\BillStudioInfrastructure.pdb
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\bin\Debug\net6.0\BillStudioDomain.dll
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\bin\Debug\net6.0\BillStudioDomain.pdb
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\BillStudioInfrastructure.csproj.CopyComplete
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\BillStudioInfrastructure.dll
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\refint\BillStudioInfrastructure.dll
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\BillStudioInfrastructure.pdb
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\ref\BillStudioInfrastructure.dll
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\bin\Debug\net6.0\BillStudioInfrastructure.runtimeconfig.json
+C:\Users\Asus\source\repos\BillStudioAPI\BillStudio.Infrastructure\obj\Debug\net6.0\BillStudioInfrastructure.genruntimeconfig.cache
